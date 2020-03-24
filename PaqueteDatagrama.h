@@ -1,3 +1,5 @@
+#ifndef PAQUETEDATAGRAMA_H
+#define PAQUETEDATAGRAMA_H
 class PaqueteDatagrama
 {
 public:
@@ -17,3 +19,4 @@ private:
   unsigned int longitud;
   int puerto;
   };
+#endif
